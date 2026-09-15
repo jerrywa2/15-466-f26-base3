@@ -1,8 +1,8 @@
-# (TODO: your game's title)
+# Beat Leap
 
-Author: (TODO: your name)
+Author: Jerry Wang (jerrywa2)
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: It is a platformer that takes the combo system for rhythm games and ties it to the mechanic of jumping, where successful combos result in higher jumps.
 
 Screen Shot:
 
@@ -10,6 +10,6 @@ Screen Shot:
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
+Press Spacebar to jump. Jump on the beat to jump higher and clear higher obstacles!
 
 This game was built with [NEST](NEST.md).
